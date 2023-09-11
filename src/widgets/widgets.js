@@ -20,6 +20,7 @@ import evcc from "./evcc/widget";
 import fileflows from "./fileflows/widget";
 import flood from "./flood/widget";
 import freshrss from "./freshrss/widget";
+import fritzbox from "./fritzbox/widget";
 import gamedig from "./gamedig/widget";
 import ghostfolio from "./ghostfolio/widget";
 import glances from "./glances/widget";
@@ -120,6 +121,7 @@ const widgets = {
   fileflows,
   flood,
   freshrss,
+  fritzbox,
   gamedig,
   ghostfolio,
   glances,

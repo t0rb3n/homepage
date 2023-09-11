@@ -37,7 +37,8 @@
     "tough-cookie": "^4.1.2",
     "urbackup-server-api": "^0.8.9",
     "winston": "^3.8.2",
-    "xml-js": "^1.6.11"
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.3",
